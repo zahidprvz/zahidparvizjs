@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zahidparviz/static/css/main.71445e9d.css",
+    "main.js": "/zahidparviz/static/js/main.c96f2af7.js",
+    "static/js/787.294f6c36.chunk.js": "/zahidparviz/static/js/787.294f6c36.chunk.js",
+    "static/media/helvetica-neu.ttf": "/zahidparviz/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo-z.png": "/zahidparviz/static/media/logo-z.6a6fc47595a1e577c88b.png",
+    "static/media/logo_sub.png": "/zahidparviz/static/media/logo_sub.52076a1dfb8b2846eac2.png",
+    "static/media/LaBelleAurore.woff2": "/zahidparviz/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/zahidparviz/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/zahidparviz/index.html",
+    "main.71445e9d.css.map": "/zahidparviz/static/css/main.71445e9d.css.map",
+    "main.c96f2af7.js.map": "/zahidparviz/static/js/main.c96f2af7.js.map",
+    "787.294f6c36.chunk.js.map": "/zahidparviz/static/js/787.294f6c36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71445e9d.css",
+    "static/js/main.c96f2af7.js"
+  ]
+}
