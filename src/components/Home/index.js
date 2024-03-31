@@ -47,7 +47,7 @@ const Home = () => {
                         idx={19} />
                 </h1>
 
-                <h2>Interested in AI / App Development / Solving Problems</h2>
+                <h2>Artificial Intelligence / Flutter App Development / Solving Problems</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
            
