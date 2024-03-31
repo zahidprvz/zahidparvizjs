@@ -53,7 +53,7 @@ const Sidebar = () => (
                 <a 
                     target="_blank" 
                     rel="noreferrer" 
-                    href="https://www.linkedin.com/in/pzmughal/"
+                    href="https://www.linkedin.com/in/zahidprvz/"
                 >
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
@@ -63,7 +63,7 @@ const Sidebar = () => (
                 <a 
                     target="_blank" 
                     rel="noreferrer" 
-                    href="https://github.com/zpmughal/"
+                    href="https://github.com/zahidprvz/"
                 >
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                 </a>
@@ -73,7 +73,7 @@ const Sidebar = () => (
                 <a 
                     target="_blank" 
                     rel="noreferrer" 
-                    href="https://www.youtube.com/channel/UCenB5ZRzeeaZ7z9Px5GGXLw/"
+                    href="https://www.youtube.com/@zahidsphilosophy/"
                 >
                     <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
                 </a>
@@ -81,7 +81,7 @@ const Sidebar = () => (
                 <a 
                     target="_blank" 
                     rel="noreferrer" 
-                    href="https://www.facebook.com/pzmughal/"
+                    href="#"
                 >
                     <FontAwesomeIcon icon={faFacebook} color="#4d4d4e" />
                 </a>
